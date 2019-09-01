@@ -1,4 +1,4 @@
-package io.jenkins.plugins.sample;
+package io.jenkins.plugins.sample.hello;
 
 import hudson.model.Run;
 import jenkins.model.RunAction2;
