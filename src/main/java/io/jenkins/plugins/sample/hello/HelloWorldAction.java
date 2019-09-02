@@ -23,6 +23,7 @@ public class HelloWorldAction implements RunAction2 {
         return "document.png";
     }
 
+    // 构建页的侧栏
     @CheckForNull
     @Override
     public String getDisplayName() {
